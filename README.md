@@ -1,4 +1,4 @@
-# dbprojects
+# Music Source project
 Repo for school project
 ## Table of contents
 - DDL SQL to build database
