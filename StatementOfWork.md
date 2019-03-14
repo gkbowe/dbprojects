@@ -7,7 +7,7 @@ UMUC DBST 651
 
 Version 1
 
-
+[Back to README](README.md)
 ## Executive Summary
 
 The Classical Music Supply is a local music supply store with three locations in the metro area. Currently, each store orders products and sells services independently of one another. If a product is sold out at one location, an employee has to call the others in order to see if it&#39;s available at those locations.  Services, such as music lessons and repairs are offered at individual locations as well without communications between the stores. Sales reports, expenses, employee reports are created by gathering data from the individual stores by email and putting them together using accounting software and spreadsheet.
@@ -97,7 +97,7 @@ This database will allow the company to expand, offer better customer service, i
 
 ER Assistant Version 2.0 and Microsoft Visio Professional (Windows 10 only). 
 
-[Final ERD is here](dbprojects/MusicSource-DBST/Bowe_Gregory_ERDv2.png)
+[Final ERD is here](MusicSource-DBST/Bowe_Gregory_ERDv2.jpg)
 
 
 #### 4.2 Database and Access Method
@@ -107,3 +107,5 @@ ER Assistant Version 2.0 and Microsoft Visio Professional (Windows 10 only).
 - **Admin access:** SQL Developer Version: 18.2.0.183.1748 using Windows 10 or Mac OS version 10.12.6
 
 - **Data Definition Language (DDL) statements and Data Manipulation Language (DML) statements:** Structured Query Language (SQL)
+
+[Back to README](README.md)
